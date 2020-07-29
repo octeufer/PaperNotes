@@ -1,4 +1,4 @@
-# [Quantifying Causal Contribution via Structure Preserving Interventions!](https://arxiv.org/abs/2007.00714)
+# [Quantifying Causal Contribution via Structure Preserving Interventions](https://arxiv.org/abs/2007.00714)
 
 
 This paper introduce  **Causal Information Contribution** (CIC) and **Causal Variance Contribution** (CVC) to quantify the influence of each variable in a causal diagram on the targets of interest. The cascade causal effects are introduced by *Functional Causal Model* (FCM), in which the term of random noises recursively leads to Markovian influence. *Structure preserving interventions* are introduced to represent the interventions on unobserved noise variables only. The total uncertainty of a target variable can be attributed to the information from each noise tern via Shapley values.

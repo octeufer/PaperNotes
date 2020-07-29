@@ -1,4 +1,4 @@
-# [Generalization and Invariances in the Presence of Unobserved Confounding!](https://arxiv.org/abs/2007.10653)
+# [Generalization and Invariances in the Presence of Unobserved Confounding](https://arxiv.org/abs/2007.10653)
 
 ### Task:
 The ability of extrapolate, from observed to new related environments.
