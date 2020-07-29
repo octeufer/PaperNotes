@@ -27,4 +27,10 @@ When Galton study the distribution of populations across generations or between 
  While both of them ignored *Causation* from statistics.
 - Genetics, heredity, and path *diagrams*. 
  Sewall Wright developed a mathematical method for answering causal questions from data. 
- Path diagrams are the tool that bridge rung one and rung two.
+ Path diagrams are the tool that bridge rung one and rung two. Two languages are included in Wright`s work: one is diagram, another is data. 
+ Causal analysis is not to prove that $X$ is cause of $Y$; It is representing causal knowledge in some mathematic language (e.g. diagram), combining it with data, and answering causal queries.
+- E PUR SI MUOVE (and yet it moves).
+ Path diagrams developed into structural equation models. Sometimes patterns from aggregated data cannot reflect true causal quantities, because of the bias. Causal model can help us disentangle the bias from data, and recover the true quantities of causal queries.
+- Bayesian connection: from objectivity to subjectivity.
+ Prior belief + new evidence = revised belief. The prior belief provides space for human subjectivity, which distinguish Bayesian methods from orthodox statistical methods. However, the prior belief is still not causal model because it is only based on probability language, not diagrams.  
+
