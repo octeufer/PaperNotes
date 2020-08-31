@@ -45,3 +45,21 @@ When Galton study the distribution of populations across generations or between 
 
  Prior belief + new evidence = revised belief. The prior belief provides space for human subjectivity, which distinguish Bayesian methods from orthodox statistical methods. However, the prior belief is still not causal model because it is only based on probability language, not diagrams.  
 
+### Chapter 3
+
+- Bayes`s rule
+
+  Bayes`s rule offers a general solution to the inverse-probability problem.
+  The most important role of Baye`s rule in statistics is: we can estimate the conditional probability directly in one direction, for which our judgment is more reliable, and use mathematics to derive the conditional probability in the other direction, for which our judgment is rather hazy.
+
+  Bayes`s rule offers an empirical claim to faithfully represent the English expression "given that I know".
+
+- Objections
+  
+  The philosophical objection stems from the interpretation of probabilities as a degree of belief.
+
+  The language of probability, expressed in symbols like $P(S)$, was intended to capture the concept of frequencies in games of chance. But the expression "given that I know" is epistemological and should be governed by logic of knowledge, not that of frequencies and proportions.
+
+- Robustness
+  
+  The inverse probability e.g. $P(disease|test)$ is not the same for everyone; it is context dependent. The forward probability does not depend on whether you are high risk or not. It is "robust" to such variations. It remains relatively invariant to the reasons for the disease (epidemic, diet, hygiene, socioeconomic, status, family history). The inverse probability is sensitive to these conditions.
