@@ -2,7 +2,7 @@
 Notes for academic papers
 
 - [Causality](#causality)
-- [Robustness, Domain Generalization and Fairness](#robustness, domain generalization and fairness)
+- [Robustness, Domain Generalization and Fairness](#robustness-domain-generalization-and-fairness)
 
 ## Causality
 - [Quantifying Causal Contribution via Structure Preserving Interventions](Causality/QuanCIC.md)
