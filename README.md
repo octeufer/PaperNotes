@@ -2,6 +2,7 @@
 Notes for academic papers
 
 - [Causality](#causality)
+- [Robustness, Domain Generalization and Fairness](#robustness-domain-generalization-and-fairness)
 
 ## Causality
 - [Causality Lecture Notes](Causality/CausalityLectureNotes.md)
@@ -13,3 +14,5 @@ Notes for academic papers
 - [Causal Inference by Using Invariant Prediction: Identification and Confidence Intervals](Causality/CausalInvariantPrediction.md)
 
 
+## Robustness, Domain Generalization and Fairness
+- [Exchanging Lessons Between Algorithmic Fairness and Domain Generalization](RB&DG&Fair/LessonBetweenDOFair.md)
