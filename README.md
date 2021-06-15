@@ -3,6 +3,7 @@ Notes for academic papers
 
 - [Causality](#causality)
 - [Robustness, Domain Generalization and Fairness](#robustness-domain-generalization-and-fairness)
+- [Diagnosis ML]
 
 ## Causality
 - [Causality Lecture Notes](Causality/CausalityLectureNotes.md)
@@ -17,3 +18,5 @@ Notes for academic papers
 
 ## Robustness, Domain Generalization and Fairness
 - [Exchanging Lessons Between Algorithmic Fairness and Domain Generalization](RB&DG&Fair/LessonBetweenDOFair.md)
+
+## Diagnosis ML
