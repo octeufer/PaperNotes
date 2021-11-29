@@ -19,6 +19,7 @@ Notes for academic papers
 - [Feature Selection as Causal Inference: Experiments with Text Classification](Causality/CausalFStext.md)
 - [Causal Regularization](Causality/CausalReg.md)
 - [A Unified View of Causal and Non-causal Feature Selection](Causality/UniCausalFS.md)
+- [Causal Decision Making and Causal Effect Estimation Are Not the Same... and Why It Matters](https://arxiv.org/pdf/2104.04103)
 
 
 ## Robustness, Domain Generalization and Fairness
