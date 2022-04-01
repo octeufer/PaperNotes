@@ -55,6 +55,7 @@ Notes for academic papers
 ## Uncertainty
 - [Random Sum-Product Networks: A Simple and Effective Approach to Probabilistic Deep Learning](Uncertainty/RandSPN.md)
 - [Sum-Product Networks: A New Deep Architecture](Uncertainty/DeepSPN.md)
+- [Second opinion needed: communicating uncertainty in medical machine learning](Uncertainty/uncmd.md)
 
 ## Diagnosis Machine Learning Systems
 - [Improving the quality of machine learning in health applications and clinical research](DiagnosisML/MLquality.md)
