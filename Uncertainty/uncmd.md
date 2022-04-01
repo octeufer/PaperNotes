@@ -1,5 +1,4 @@
-# [Second opinion needed: communicating uncertainty in medical
-machine learning](https://www.nature.com/articles/s41746-020-00367-3)
+# [Second opinion needed: communicating uncertainty in medical machine learning](https://www.nature.com/articles/s41746-020-00367-3)
 
 ### Introduction
 The quantification and communication of uncertainty for individual predictions is often neglected even though uncertainty estimates could lead to more principled decision-making and enable machine learning models to automatically or semi-automatically abstain on samples for which there is high uncertainty.
