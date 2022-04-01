@@ -73,3 +73,6 @@ Notes for academic papers
 - [Learning Fair Rule Lists](LocalRuleMining/FairRL.md)
 - [Anytime Subgroup Discovery in Numerical Domains with Guarantees](LocalRuleMining/AnytimeSD.md)
 - [ROC ’n’ Rule Learning—Towards a Better Understanding of Covering Algorithms](LocalRuleMining/Rocover.md)
+
+## Logic Programming
+- [Learning Explanatory Rules from Noisy Data](LogicProgramming/aILP.md)
