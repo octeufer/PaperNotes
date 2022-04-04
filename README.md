@@ -57,6 +57,7 @@ Notes for academic papers
 - [Sum-Product Networks: A New Deep Architecture](Uncertainty/DeepSPN.md)
 - [Second opinion needed: communicating uncertainty in medical machine learning](Uncertainty/uncmd.md)
 - [Occam`s Razor](Uncertainty/Occamrazor.md)
+- [Bayesian model averaging is not model combination](Uncertainty/BMA.md)
 
 ## Diagnosis Machine Learning Systems
 - [Improving the quality of machine learning in health applications and clinical research](DiagnosisML/MLquality.md)
