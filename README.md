@@ -58,6 +58,7 @@ Notes for academic papers
 - [Second opinion needed: communicating uncertainty in medical machine learning](Uncertainty/uncmd.md)
 - [Occam`s Razor](Uncertainty/Occamrazor.md)
 - [Bayesian model averaging is not model combination](Uncertainty/BMA.md)
+- [Knowledge-Gradient Methods for Statistical Learning](Uncertainty/ICP.md)
 
 ## Diagnosis Machine Learning Systems
 - [Improving the quality of machine learning in health applications and clinical research](DiagnosisML/MLquality.md)
