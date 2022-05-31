@@ -79,3 +79,7 @@ Notes for academic papers
 
 ## Logic Programming
 - [Learning Explanatory Rules from Noisy Data](LogicProgramming/aILP.md)
+
+
+## Explanation
+- [Explaining the Black-box Smoothly A counterfactual Approach](Explanation/ExpBBsCF.md)
