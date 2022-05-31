@@ -83,3 +83,4 @@ Notes for academic papers
 
 ## Explanation
 - [Explaining the Black-box Smoothly A counterfactual Approach](Explanation/ExpBBsCF.md)
+- [Explaining in Style: Training a GAN to explain a classifier in StyleSpace](Explanation/ExpInStyle.md)
